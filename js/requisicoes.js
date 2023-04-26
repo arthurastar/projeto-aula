@@ -1,4 +1,4 @@
-const endereco = 'https://banco-de-dados-aula.onrender.com/'
+const endereco = 'https://banco-de-dados-aula.onrender.com'
 
 let algo
 
