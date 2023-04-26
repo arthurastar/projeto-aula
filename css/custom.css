@@ -1,0 +1,14 @@
+.pacientes .titulo-negrito {
+    font-weight: bold;
+}
+
+.legend .row div{
+    padding: 5px ;
+}
+.legend .row:nth-of-type(odd) div {
+    background-color: #ececec;
+}
+
+.legend .row:nth-of-type(even) div {
+    background: #FFFFFF;
+}
