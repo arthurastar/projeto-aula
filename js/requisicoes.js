@@ -1,5 +1,7 @@
 const endereco = 'https://db-arnia.onrender.com'
 
+let algo
+
 listar = async (rota) => {
     requisicao = await fetch(endereco + rota)
     dados = await requisicao.json()
